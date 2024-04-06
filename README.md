@@ -49,15 +49,15 @@ Here, I used `POST` HTTP Method to send the Data from Frontend to backend using 
 ## Read Screenshot
 ![Screenshot (139)](https://github.com/Sandeep-1405/INI8-Assignment/assets/107021866/1173c437-4ba8-4cc2-a311-6e22c8254582)
 
-Here, I used `GET` HTTP Method
+Here, I used `GET` HTTP Method to fetch the data from the server.
 
 ## Update Screenshot
 
 ![image](https://github.com/Sandeep-1405/INI8-Assignment/assets/107021866/120287a7-1649-4275-a848-89cccfd6b47b)
 
-Onclick Update button it updates the Existing User Information
+Onclick Update button it updates the Existing User Information.
 
-Here, I used `PUT` HTTP Method to modify the existing data
+Here, I used `PUT` HTTP Method to modify the existing data.
 
 ## Delete Screenshot
 
