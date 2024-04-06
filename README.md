@@ -44,8 +44,12 @@ To start React Application use `npm start`
 
 Onclick Submit it creates a new user in Database
 
+Here, I used `POST` HTTP Method to send the Data from Frontend to backend using `axios` make sure to install `axios` using `npm install axios`
+
 ## Read Screenshot
 ![Screenshot (139)](https://github.com/Sandeep-1405/INI8-Assignment/assets/107021866/1173c437-4ba8-4cc2-a311-6e22c8254582)
+
+Here, I used `GET` HTTP Method
 
 ## Update Screenshot
 
@@ -53,11 +57,15 @@ Onclick Submit it creates a new user in Database
 
 Onclick Update button it updates the Existing User Information
 
+Here, I used `PUT` HTTP Method to modify the existing data
+
 ## Delete Screenshot
 
 ![image](https://github.com/Sandeep-1405/INI8-Assignment/assets/107021866/95c4678f-ac17-4ebb-b03b-6fccd970ead8)
 
 Onclick Delete Button User will be Deleted from the Database
+
+Here, I used `DELETE` HTTP Method to remove data from database
 
 ## Error handling and validation
 
